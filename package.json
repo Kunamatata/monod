@@ -84,7 +84,7 @@
     "offline-plugin": "github:willdurand/offline-plugin#monod",
     "postcss-loader": "^1.0.0",
     "raven-js": "^3.4.1",
-    "react": "^15.3.1",
+    "react": "^15.4.0",
     "react-addons-test-utils": "^15.3.1",
     "react-dom": "^15.3.1",
     "react-hot-loader": "^3.0.0-beta.1",
