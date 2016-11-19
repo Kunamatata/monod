@@ -101,7 +101,7 @@
     "sinon": "^1.17.3",
     "sjcl": "1.0.6",
     "style-loader": "^0.13.0",
-    "superagent": "^2.3.0",
+    "superagent": "^3.0.0",
     "supertest": "^2.0.0",
     "unlazy-loader": "^0.1.2",
     "uuid": "^2.0.1",
