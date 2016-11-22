@@ -80,7 +80,7 @@
     "mocha-circleci-reporter": "0.0.2",
     "nightwatch": "^0.9.8",
     "node-sass": "^3.4.2",
-    "nyc": "^9.0.1",
+    "nyc": "^10.0.0",
     "offline-plugin": "github:willdurand/offline-plugin#monod",
     "postcss-loader": "^1.0.0",
     "raven-js": "^3.4.1",
